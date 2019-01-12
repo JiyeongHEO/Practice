@@ -1,0 +1,6 @@
+>next time
+```c
+void f(){
+  printf("try this");}
+
+```
