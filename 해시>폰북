@@ -1,0 +1,10 @@
+전화번호적힌 폰북{}
+접두어인지 -> 있으면 false 
+
+// 해싱: key,value묶어서.
+멀티Thread는 hashtable씀(동시에 건드리면 문제되니까) , 버킷-----과 슬롯-
+// Substring() : 문자열자르기
+// .startWith()  함수
+<me>
+1.chk배열만듦  
+2.chk원소: 폰북의 원소 비교
